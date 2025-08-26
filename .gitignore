@@ -1,0 +1,14 @@
+# Ignorar base vectorial y archivos temporales
+chroma_db/
+chunks.json
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp
